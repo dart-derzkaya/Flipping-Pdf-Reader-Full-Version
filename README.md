@@ -243,4 +243,4 @@ This repository serves as the official landing page for Flipping PDF Reader. The
 **Get the most recent version of Flipping PDF Reader today!**
 
 ---
-**Last updated:** 2026-09-11 23:47:09 UTC
+**Last updated:** 2026-09-12 02:37:49 UTC
